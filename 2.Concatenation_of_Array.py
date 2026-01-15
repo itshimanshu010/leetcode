@@ -5,6 +5,7 @@
 # ans = [nums[0],nums[1],nums[2],nums[0],nums[1],nums[2]]
 # ans = [1,2,1,1,2,1]
 
+# Code:
 class Solution:
     def getConcatenation(self, nums: List[int]) -> List[int]:
 
