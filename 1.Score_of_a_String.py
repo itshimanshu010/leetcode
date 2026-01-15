@@ -7,10 +7,10 @@
 # The score of s will be: |111 - 99| + |100 - 111| + |101 - 100|.
 
 #Code:
-
 class Solution:
     def scoreOfString(self, s: str) -> int:
 
+# Approach:
 class Solution:
     def scoreOfString(self, s:str) -> int:
         res = 0;
